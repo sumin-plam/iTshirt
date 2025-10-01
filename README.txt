@@ -1,3 +1,2 @@
 hello git
-thx
-::
+cat git
